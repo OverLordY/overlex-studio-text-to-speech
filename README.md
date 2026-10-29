@@ -8,6 +8,10 @@
 
 ## Українська
 
+### Інтерфейс OverLeX Studio
+
+![Інтерфейс OverLeX Studio українською](screenshots/studio-uk.png)
+
 ### Що таке OverLeX Studio?
 
 OverLeX Studio — авторська настільна програма для підготовки мультимовних навчальних пакетів: від таблиці зі словами або фразами та прикладами до озвучених і зашифрованих пакетів для OverLeX Desktop та OverLeX Mobile.
@@ -68,6 +72,10 @@ Studio підтримує кілька способів озвучування �
 
 Ці адміністративні функції потребують налаштованих сервісів і відповідних прав доступу. Секретні ключі, токени та особисті дані не належать до публічного репозиторію.
 
+### Перевірка готовності пакета
+
+![Release Checklist — перевірка готовності пакета](screenshots/release-checklist.png)
+
 ### Як виглядає робочий процес
 
 1. Підготувати CSV зі словами або фразами, перекладами та прикладами.
@@ -86,6 +94,8 @@ Studio підтримує кілька способів озвучування �
 [Створити Issue](https://github.com/OverLordY/overlex-studio-text-to-speech/issues/new) або зв’язатися з автором через [контакти OverLeX](https://overlex.eu/uk/contact.html). Опишіть проблему, кроки відтворення та очікуваний результат. **Не публікуйте API-ключі, токени, License ID, ліцензійні e-mail або приватні файли.**
 
 ## English
+
+![OverLeX Studio interface in English](screenshots/studio-en.png)
 
 OverLeX Studio is an author's desktop toolkit for creating multilingual audio learning packs for OverLeX. It combines CSV preparation, text-to-speech generation, audio checks, encrypted .langpackx packaging, release verification, publication and license administration.
 
